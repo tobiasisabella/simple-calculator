@@ -35,10 +35,10 @@ else:
         print(first, "+", second, "=", first + second)
     
     elif selection == 2: 
-        print(first, "+", second, "=", first - second)
+        print(first, "-", second, "=", first - second)
         
     elif selection == 3: 
-        print(first, "+", second, "=", first * second)
+        print(first, "*", second, "=", first * second)
         
     if selection == 4: 
-        print(first, "+", second, "=", first / second)
+        print(first, "/", second, "=", first / second)
